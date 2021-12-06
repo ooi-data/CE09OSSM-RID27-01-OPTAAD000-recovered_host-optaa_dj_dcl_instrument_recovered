@@ -1,0 +1,5 @@
+data_ready: false
+data_stream: CE09OSSM-RID27-01-OPTAAD000-recovered_host-optaa_dj_dcl_instrument_recovered
+last_request: '2021-12-06T23:37:49.015051Z'
+response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-RID27-01-OPTAAD000-recovered_host-optaa_dj_dcl_instrument_recovered/main/history/response.json
+status: pending
